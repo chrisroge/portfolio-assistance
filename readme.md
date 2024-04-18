@@ -36,7 +36,9 @@
     </div>
 ```
 
-### Would look like this:
+### Preview
+
+Would look like this, and would always be locked to the bottom of the window, if you don't want it locked to the bottom of the window you can remove "position: fixed" and "bottom: 0"
 
 ![image](https://github.com/chrisroge/portfolio-assistance/assets/782671/7f328e01-ba43-4a78-a4a9-c92ffaa39e72)
 
